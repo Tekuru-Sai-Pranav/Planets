@@ -9,3 +9,6 @@ Features:
 3. Soft gradients and hover effects for modern UI
 4. Mobile-friendly design
 5. Educational content including planet types, moons, and fun facts
+
+
+<img width="1915" height="1117" alt="image" src="https://github.com/user-attachments/assets/f4dc8b8b-8ccd-407a-aa2f-cb8fe4216a7b" />
